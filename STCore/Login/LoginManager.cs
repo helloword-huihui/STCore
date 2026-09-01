@@ -8,5 +8,6 @@ namespace STCore.Login
 {
     internal class LoginManager
     {
+        //Git 测试
     }
 }
